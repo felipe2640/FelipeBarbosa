@@ -1,4 +1,4 @@
-# vite React TypeScript tailwindcss starter
+# Portfolio used vite React TypeScript tailwindcss
 
 Portfolio used vite, React + tailwindcss + TypeScript to expose my works
 
