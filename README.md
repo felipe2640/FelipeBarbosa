@@ -1,10 +1,14 @@
 # Portfolio used vite React TypeScript tailwindcss
 
-Portfolio used vite, React + tailwindcss + TypeScript to expose my works
+Portfolio used in to expose my works
 
 ## About
 
-I'm Developer Front End, this Website expose my works have done
+I'm Developer Front End, this Website expose my works have done with Typescript.
+
+Front End : vite with React + tailwindcss
+
+Back End : Prisma + Express + postgresql
 
 ### Libraries
 
