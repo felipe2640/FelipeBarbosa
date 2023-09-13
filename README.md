@@ -30,6 +30,7 @@ This personal website serves as my online portfolio and showcases my projects, b
 - **Portfolio:** Showcase your projects with detailed descriptions.
 <!-- - **Blog:** Write and publish blog posts easily. -->
 - **Contact:** Provide ways for visitors to get in touch with you.
+<!-- - **Blog:** Write and publish blog posts easily. -->
 - **Responsive Design:** The website is optimized for various screen sizes.
 
 ## Getting Started
@@ -38,9 +39,4 @@ To get a local copy of this project up and running, follow these steps:
 
 1. Clone this repository: `git clone https://github.com/felipe2640/FelipeBarbosa.git`
 2. Install dependencies: `npm install`
-3. Configure environment variables: Create a `.env.local` file and add your Upstash API key and other required variables.
-
-   ```env
-   UPSTASH_API_KEY=your_upstash_api_key
-   # Add other environment variables here
-   ```
+<!-- 3. Configure environment variables: Create a `.env.local` file and add your Upstash API key and other required variables. -->

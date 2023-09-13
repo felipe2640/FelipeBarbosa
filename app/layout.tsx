@@ -17,13 +17,6 @@ export const metadata: Metadata = {
       "Front-End Development | React | TypeScript | Node | Technical Supervisor",
     url: "https://felipebarbosa.vercel.app",
     siteName: "felipebarbosa.vercel.app",
-    images: [
-      {
-        url: "http://felipebarbosa.vercel.app/logo.png",
-        width: 1920,
-        height: 1080,
-      },
-    ],
     locale: "pt-BR",
     type: "website",
   },
@@ -37,10 +30,6 @@ export const metadata: Metadata = {
       "max-image-preview": "large",
       "max-snippet": -1,
     },
-  },
-
-  icons: {
-    shortcut: "/logo.png",
   },
 };
 const inter = Inter({
